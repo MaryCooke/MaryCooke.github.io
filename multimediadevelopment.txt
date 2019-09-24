@@ -1,5 +1,4 @@
-﻿
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -10,7 +9,6 @@ body {
 	font-size: 14px; 
 	line-height: 1.5em;
 	color: #13436E
-
 }
 h1 {
 	font-size: 3em;
@@ -23,7 +21,6 @@ h2 {
 	font-size: 1.75em;
 	color: #13436e;
 }
-
 #container {
 	height: auto;
 	width: 1024px;
