@@ -228,7 +228,7 @@ h2 {
 
 <div id="contentOne">
 <h3><a href="mp1.html" target="_new">MiniProjects from Multimedia/Hypermedia class</a></h3>
-<a href="mp1.html" target="_new"><img src="marycooke.github.io/starfish.jpg" width="32" height="32" alt="starfish" longdesc="starfish.jpg" /></a>
+<a href="mp1.html" target="_new"><img src="github.com/MaryCooke/MaryCooke.github.io/starfish.jpg" width="32" height="32" alt="starfish" longdesc="starfish.jpg" /></a>
 <p><a href="mp1.html" target="_new">These are my MiniProjects 1 through 6 from the Multimedia/Hypermedia class.</a></p>
 <p>&nbsp;</p><hr />
 
