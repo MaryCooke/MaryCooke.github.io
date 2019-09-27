@@ -136,7 +136,7 @@ h2 {
 
 <div id="header">
   <h1>Mary Cooke
-  <img src="computer.jpg" alt="computer" longdesc="computer.jpg" style="float:right;margin-right:15px;width:370px;height:192px;" />
+  <img src="Computer.jpg" alt="Computer" longdesc="Computer.jpg" style="float:right;margin-right:15px;width:370px;height:192px;" />
   </h1>
 </div>
 
